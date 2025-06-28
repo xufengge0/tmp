@@ -8,4 +8,5 @@ func init() {
 	println("...")
 	println("Initializing the application...")
 	println("main第三次提交")
+	println("main第四次提交")
 }
