@@ -5,6 +5,6 @@ func main() {
 }
 
 func init() {
-	println("dev")
+	println("...")
 	println("Initializing the application...")
 }
