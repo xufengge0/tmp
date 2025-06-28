@@ -10,4 +10,5 @@ func init() {
 	println("main第三次提交")
 	println("main第四次提交")
 	println("main第五次提交")
+	println("main第六次提交")
 }
