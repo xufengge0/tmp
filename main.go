@@ -6,4 +6,5 @@ func main() {
 
 func init() {
 	println("...")
+	println("Initializing the application...")
 }
