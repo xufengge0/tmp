@@ -11,6 +11,13 @@ func init() {
 	println("main第四次提交")
 	println("main第五次提交")
 	println("main第六次提交")
+	println("main第七次提交")
+	println("main第八次提交")
+	println("main第九次提交")
+}
+func dev_second() {
+	println("dev_second")
+	println("main第六次提交")
 }
 func aaa() {
 	println("aaa")
