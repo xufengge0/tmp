@@ -15,4 +15,5 @@ func init() {
 func aaa() {
 	println("aaa")
 	println("foo第二次提交")
+	println("foo第三次提交")
 }
