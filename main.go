@@ -19,8 +19,3 @@ func dev_second() {
 	println("dev_second")
 	println("main第六次提交")
 }
-func aaa() {
-	println("aaa")
-	println("foo第二次提交")
-	println("foo第三次提交")
-}
